@@ -1,1 +1,1 @@
-export default 'D. G. Nyux';
+export default 'N. V. Shimko';
