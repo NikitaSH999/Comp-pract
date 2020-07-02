@@ -12,8 +12,8 @@ var _class = function () {
     function _class() {
         _classCallCheck(this, _class);
 
-        this.first = 'Denis';
-        this.last = 'Nyux';
+        this.first = 'Nikita';
+        this.last = 'Shimko';
     }
 
     _createClass(_class, [{
